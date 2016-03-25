@@ -1,0 +1,43 @@
+/*
+	The CSS styling file 
+	
+*/
+
+a {
+	color: #9FE09F;
+	text-decoration:none;
+}
+
+
+a:hover{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#propic{
+	float: right;
+}
+
+h3{
+	font-size: 200%;
+	font-family: sans-serif;
+	color: white;
+}
+
+h2{
+	font-size: 300%;
+	font-family: sans-serif;
+	color: white;
+}
+
+li {
+	font-size: 110%;
+	font-family: sans-serif;
+	color: white;
+}
+
+p {
+	font-size: 110%;
+	font-family: sans-serif;
+	color: white;
+}

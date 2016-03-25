@@ -1,0 +1,11 @@
+Left arrow key:    rotate left
+Right arrow key:   rotate right
+Up arrow key:	   moves forward	
+Down arrow key:	   move backward
+F9: 		   headlights	
+',', '.' ; B,V :   Rotate camera
+C,X : 		   Rotate Lights
+PageUp, PageDown : Zoom
+Home, Delete :     Switch stationary (directional lights) off or on
+Right Control:     Change Camera
+Left Control(keep pressed): Switch to robot mode
